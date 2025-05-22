@@ -1,4 +1,4 @@
-# Elastica Project
+# Tangent Bundle Elastica
 
 This repository contains the code implementation for the paper: **"Tangent Bundle Elastica and Computer Vision"** [TPAMI 2014](https://ieeexplore.ieee.org/abstract/document/6866207). The paper explores the mathematical framework of elastica in the tangent bundle and its applications in computer vision. The code provides functionalities for elastica calculations, visualization, and utility functions to support the concepts introduced in the paper.
 
