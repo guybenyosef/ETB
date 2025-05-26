@@ -1,3 +1,5 @@
+import numpy as np
+
 def poly_interpolation(X, Y):
     p = np.polyfit(X, Y, 5)
     h_step = 0.01
