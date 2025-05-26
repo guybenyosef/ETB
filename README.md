@@ -1,4 +1,4 @@
-# Tangent Bundle Elastica
+# Tangent Bundle Elastica for Contour Completion
 
 This repository contains the code implementation for the paper: **"Tangent Bundle Elastica and Computer Vision"** [TPAMI 2014](https://ieeexplore.ieee.org/abstract/document/6866207). The paper explores the mathematical framework of elastica in the tangent bundle and its applications in computer vision. The code provides functionalities for elastica calculations, visualization, and utility functions to support the concepts introduced in the paper.
 
@@ -18,9 +18,9 @@ pip install -r requirements.txt
 
 The main functionality is provided in the `elastica.py` file located in the `src` directory. You can use the functions defined in this file to perform elastica calculations.
 
-### Example
+### Example Usage
 
-To see example usage, check the `ElasticaTB_Examples.ipynb` file in the `notebooks/` directory. This file demonstrates how to generate and visualize elastica curves.
+To see example usage, check the `ElasticaTB_Examples.ipynb` file in the `notebooks/` directory. This file demonstrates how to generate and visualize elastica curves. Other notebooks in the `notebooks/` directory provide additional examples and visualizations of the elastica framework.
 
 ## Contributing
 
